@@ -1444,6 +1444,10 @@ body {
 .cid-rkt5dorLsE .mbr-section-title {
   text-align: center;
 }
+.cid-rkt5dorLsE .mbr-text,
+.cid-rkt5dorLsE .mbr-section-btn B {
+  color: #ffffff;
+}
 .cid-rksuLQf3We {
   padding-top: 60px;
   padding-bottom: 45px;
@@ -1700,6 +1704,9 @@ body {
   .cid-rktfZxOn5g .form-group {
     margin: 0;
   }
+}
+.cid-rktfZxOn5g .foot-text {
+  color: #ffffff;
 }
 .cid-rlMASPx82Z {
   background-image: url("../../../assets/images/background4.jpg");
