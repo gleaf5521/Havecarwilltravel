@@ -2395,3 +2395,52 @@ body {
     margin: 1rem 0 0 0;
   }
 }
+.cid-rmTzaiVi2o {
+  background-image: url("../../../assets/images/background4.jpg");
+}
+.cid-rmTzh29GDh {
+  background: #ffffff;
+}
+.cid-rmTzh29GDh .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-rmTzh29GDh .mbr-figure {
+  margin: 0 auto;
+}
+.cid-rmTzh29GDh figcaption {
+  position: relative;
+}
+.cid-rmTzh29GDh figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rmTzh29GDh .image-block {
+    width: 100% !important;
+  }
+}
+.cid-rmTwfdML5x {
+  background: #ffffff;
+}
+.cid-rmTwfdML5x .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-rmTwfdML5x .mbr-figure {
+  margin: 0 auto;
+}
+.cid-rmTwfdML5x figcaption {
+  position: relative;
+}
+.cid-rmTwfdML5x figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rmTwfdML5x .image-block {
+    width: 100% !important;
+  }
+}
